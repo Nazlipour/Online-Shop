@@ -1,3 +1,4 @@
+Onlineshop-zusammenproject
 Project Setup & UI Components (Dev 1)
 Set up the project with React + Vite (or Next.js if you prefer SSR)
 Install dependencies (Framer Motion, TailwindCSS/Chakra UI, etc.)
